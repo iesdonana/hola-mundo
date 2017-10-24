@@ -1,5 +1,5 @@
-.PHONY: all
+.PHONY: test
 
-all:
+test:
 	./phpunit --color=auto test/HolaMundoTest.php 
 

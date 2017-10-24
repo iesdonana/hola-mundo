@@ -12,7 +12,7 @@ php:
 before_install: phpenv config-rm xdebug.ini
 
 script:
-    - ./phpunit --color=auto test/HolaMundoTest.php 
+    - make
 
 notifications:
     email: false
