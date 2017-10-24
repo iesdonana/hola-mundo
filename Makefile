@@ -1,5 +1,5 @@
 .PHONY: all
 
 all:
-	./phpunit --color=auto HolaMundoTest.php 
+	./phpunit --color=auto test/HolaMundoTest.php 
 

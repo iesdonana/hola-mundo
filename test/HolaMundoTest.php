@@ -1,6 +1,6 @@
 <?php
 
-require "hola-mundo.php";
+require "HolaMundo.php";
 
 class HolaMundoTest extends PHPUnit\Framework\TestCase
 {
