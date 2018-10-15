@@ -1,12 +1,15 @@
 <?php
-
-/*
- * Esto es sólo un ESQUELETO para el ejercicio de "Hola Mundo".
+/**
+ * @author Ricardo Pérez López
+ * @copyright Copyright (c) 2018 Ricardo Pérez López
+ * @license https://www.gnu.org/licenses/gpl.txt
  */
 
+/**
+ * Saluda.
+ * @return string El saludo.
+ */
 function holaMundo()
 {
-    //
-    // TU CÓDIGO AQUÍ
-    //
+    return '¡Hola, mundo!';
 }
